@@ -1,7 +1,7 @@
 # Empleabilidad-Lima-Metropolitana-y-el-Peru
 # Análisis de Empleabilidad en Perú y Lima Metropolitana con Power BI
 
-Este proyecto de Power BI tiene como objetivo analizar en profundidad la situación de la empleabilidad en el Perú, con un enfoque especial en Lima Metropolitana. Se utilizan diversas fuentes de datos oficiales para ofrecer una visión integral del mercado laboral, incluyendo indicadores clave como tasas de empleo, desempleo, ingresos y características del empleo formal e informal.
+Este proyecto de Power BI tiene como objetivo analizar en profundidad la situación de la empleabilidad en el Perú en el año 2022, con un enfoque especial en Lima Metropolitana. Se utilizan diversas fuentes de datos oficiales para ofrecer una visión integral del mercado laboral, incluyendo indicadores clave como tasas de empleo, desempleo, ingresos y características del empleo formal e informal.
 
 ## Fuentes de Datos
 
