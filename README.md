@@ -9,7 +9,7 @@ Para la elaboración de este análisis, se han empleado las siguientes bases de 
 
 * **Encuesta Nacional de Hogares sobre Condiciones de Vida y Pobreza (ENAHO) - Empleo e Ingreso:** Proporciona información detallada a nivel de hogares e individuos sobre la situación laboral, ingresos y características demográficas a nivel nacional.
 * **Encuesta Permanente de Empleo Nacional (EPEN):** Ofrece datos actualizados sobre la fuerza laboral, el empleo, el desempleo y la inactividad a nivel nacional y en áreas metropolitanas.
-* **Banco Central de Reserva del Perú (BCRP) - Trabajo en el sector formal BAJO E INGRESOS DEL SECTOR FORMAL:** Contiene información agregada sobre el empleo formal y los ingresos en este sector a nivel nacional.
+* **Banco Central de Reserva del Perú (BCRP) - Trabajo e ingresos en el sector formal:** Contiene información agregada sobre el empleo formal y los ingresos en este sector a nivel nacional.
 * **Banco Central de Reserva del Perú (BCRP) - Remuneraciones:** Ofrece datos históricos sobre la evolución de las remuneraciones promedio en el sector formal.
 
 ## Contenido del Dashboard de Power BI
